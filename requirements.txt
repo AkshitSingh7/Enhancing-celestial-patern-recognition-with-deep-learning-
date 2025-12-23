@@ -1,0 +1,9 @@
+numpy
+matplotlib
+astropy
+astroquery
+galsim
+torch
+torchvision
+tqdm
+requests

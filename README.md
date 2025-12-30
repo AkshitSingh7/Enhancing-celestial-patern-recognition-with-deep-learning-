@@ -38,8 +38,8 @@ The model uses a novel fusion approach:
 ## 📂 Directory Structure
 
 ```text
-gaia-synthetic-stars/
-├── data/                  # Generated datasets (Ignored by Git)
+Enhancing-celestial-patern-recognition-with-deep-learning-/
+├── data/                  # Generated datasets
 │   ├── train/             # Training images (.npy) and labels (.txt)
 │   └── val/               # Validation images and labels
 ├── checkpoints/           # Saved model weights

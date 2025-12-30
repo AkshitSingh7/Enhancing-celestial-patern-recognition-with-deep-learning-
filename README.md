@@ -58,7 +58,7 @@ gaia-synthetic-stars/
 
 1. **Clone the repository**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/gaia-synthetic-stars.git](https://github.com/YOUR_USERNAME/gaia-synthetic-stars.git)
+git clone [https://github.com/AkshitSingh7/gaia-synthetic-stars.git](https://github.com/AkshitSingh7/gaia-synthetic-stars.git)
 cd gaia-synthetic-stars
 
 ```

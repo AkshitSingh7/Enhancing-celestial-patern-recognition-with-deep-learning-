@@ -39,18 +39,18 @@ The model uses a novel fusion approach:
 
 ```text
 Enhancing-celestial-patern-recognition-with-deep-learning-/
-├── data/                  # Generated datasets
+├── data/                  
 │   ├── train/             # Training images (.npy) and labels (.txt)
 │   └── val/               # Validation images and labels
 ├── checkpoints/           # Saved model weights
-├── src/                   # Core Source Code
+├── src/                   
 │   ├── fetch_data.py      # Gaia Archive Query logic
 │   ├── simulate.py        # GalSim image generation engine
 │   ├── dataset.py         # PyTorch Dataset & DataLoader
-│   └── model.py           # Hybrid Transformer-CNN architecture
+│   └── model.py           # Hybrid architecture
 ├── generate_data.py       # Pipeline entry point for data creation
 ├── train.py               # Training loop entry point
-└── requirements.txt       # Dependencies
+└── requirements.txt       
 
 ```
 
